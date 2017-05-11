@@ -1,0 +1,1 @@
+spring.platform.config.server.uri: git@github.com:hamroune/config-repo.git
